@@ -1,0 +1,9 @@
+All Python Libraries:
+
+numpy
+pandas
+scikit-learn
+matplotlib
+mysql-connector-python
+reportlab
+pillow
