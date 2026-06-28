@@ -17,6 +17,9 @@ This is a machine learning-based desktop application that predicts kidney stone 
 - PDF report generation
 - Prediction statistics
 
+# Model Accuracy
+- 86%
+
 # How to Run
 1. Install required libraries.
 2. Import the MySQL database.
